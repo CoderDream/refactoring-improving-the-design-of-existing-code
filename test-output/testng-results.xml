@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25" started-at="2018-06-06T02:58:57Z" finished-at="2018-06-06T02:58:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25" started-at="2018-06-06T02:58:57Z" finished-at="2018-06-06T02:58:57Z">
+      <class name="chapter0101.CustomerTest">
+        <test-method status="PASS" signature="statement()[pri:0, instance:chapter0101.CustomerTest@7f9a81e8]" name="statement" duration-ms="10" started-at="2018-06-06T10:58:57Z" finished-at="2018-06-06T10:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statement -->
+      </class> <!-- chapter0101.CustomerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
