@@ -1,4 +1,4 @@
-package chapter0101;
+package chapter01.ver01;
 
 import java.util.Enumeration;
 import java.util.Vector;

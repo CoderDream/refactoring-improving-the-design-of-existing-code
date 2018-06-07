@@ -1,4 +1,4 @@
-package chapter0101;
+package chapter01.ver04;
 
 public class Movie {
 	public static final int CHILDRENS = 2;

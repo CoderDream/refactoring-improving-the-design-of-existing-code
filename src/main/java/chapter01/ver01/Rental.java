@@ -1,4 +1,4 @@
-package chapter0101;
+package chapter01.ver01;
 
 public class Rental {
 	private Movie _movie; // 影片
